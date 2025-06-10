@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm ARUNKUMAR S</h1>
+<h1 align="center">Hi,I'm ARUNKUMAR S</h1>
 <h3 align="center">A Passionate Flutter Developer & App Entrepreneur 🚀</h3>
 
 <p align="center">
