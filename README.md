@@ -203,47 +203,39 @@ I'm continuously expanding my knowledge in:
   **Tech Stack**: Flutter, Supabase/PostgreSQL (Planned), Deep Link APIs
 </details>
 
-<details>
-  <summary><b>📦 E-Commerce App (Learning Project)</b></summary>
-  <br>
-  
-  A full-stack e-commerce experience:
-  - 🔍 Smart product search
-  - 💳 Mock payment integration
-  - 🛍️ Cart & order tracking
-  - 🎨 Intuitive UI
-  
-  **Tech Stack**: Flutter, Firebase, RESTful APIs
-</details>
+</details> <details> <summary><b>📱 Syllo - Student Notes Sharing App (Ongoing)</b></summary> <br>
+A student-focused platform to access and share school/college study notes:
 
-<details>
-  <summary><b>🚗 Ride-Hailing Service (Learning Project)</b></summary>
-  <br>
-  
-  Simulation of a ride-booking platform:
-  - 📍 Real-time driver tracking
-  - 🗺️ Route optimization
-  - 💰 Fare estimation logic
-  - ⭐ Rider feedback system
-  
-  **Tech Stack**: Flutter, Firebase, Maps API, Geolocation
+🧑‍🏫 Teacher uploads and student access
+
+🧵 Thread-based Q&A forums
+
+📺 YouTube suggestions based on tags
+
+🔍 Subject/category filtering with file previews
+
+Tech Stack: Flutter, Firebase, Supabase, Google Drive API
+
+
+
+</details> <details> <summary><b>📄 DocForge – PDF Utility App (Ongoing)</b></summary> <br>
+A powerful mobile app for managing PDF documents:
+
+➕ Merge and Split PDFs
+
+🔐 Lock and Unlock with password
+
+🔁 Reorder pages and file previews
+
+🕘 View history of previous operations
+
+Tech Stack: Flutter, PDF Toolkit, Hive, SharedPreferences
+
+
+
 </details>
 
 ### 🌐 Community & Experimental Apps
-
-<details>
-  <summary><b>🕵️ God-Killer Party Game (Experimental)</b></summary>
-  <br>
-  
-  An interactive real-world game turned mobile:
-  - 🎭 Role assignment (Killers, Doctors, etc.)
-  - 🗳️ Voting logic and suspicion analysis
-  - 💬 In-game group discussion features
-  - 🎮 Designed for group gatherings
-  
-  **Tech Stack**: Flutter, Firebase Realtime DB
-</details>
-
 <details>
   <summary><b>📚 Textbook Downloader (Mini App Template)</b></summary>
   <br>
