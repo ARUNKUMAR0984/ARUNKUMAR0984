@@ -11,7 +11,7 @@
 <div align="center">
 
 
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/ARUNKUMAR0984" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on-GitHub-black?style=for-the-badge&logo=github" alt="Connect on GitHub"/>
   </a>
 
